@@ -1,6 +1,6 @@
 # Machine Learning
 
-A curated collection of Jupyter notebooks illustrating a range of supervised and unsupervised learning techniques, evaluation metrics, and neural network architectures. Each notebook covers a distinct algorithm or analysis pipeline, complete with data processing, model training, evaluation, and visualization.
+A collection of university project notebooks and learning code (2021–2023) illustrating a range of supervised and unsupervised learning techniques, evaluation metrics, and neural network architectures. Each notebook covers a distinct algorithm or analysis pipeline, complete with data processing, model training, evaluation, and visualization.
 
 ## Table of Contents
 
